@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064296755920",
+    "project_id": "majha-rojgar-2023",
+    "storage_bucket": "majha-rojgar-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064296755920:android:7c9fb4ee464fa162d8e4d5",
+        "android_client_info": {
+          "package_name": "com.googlebaba.majharojgar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064296755920-m0rk2tu6ge3bt7ec2jkie2gm29di2rgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzcJi4p67Xm_3ufPqvBxuhSKT3yLmYeok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064296755920-m0rk2tu6ge3bt7ec2jkie2gm29di2rgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
